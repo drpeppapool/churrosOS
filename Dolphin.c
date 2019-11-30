@@ -15,5 +15,5 @@ char tiak(char guap){
 }
 int dumb(){
   printf("print this man");
-  //big hackerman man
+  //big hackerman
 }
