@@ -12,6 +12,12 @@ void dothis(){
 char tiak(char guap){
   //obla
   addthis();
+  bigbighacker(firdge.g-fuel());
+}
+void ways_of_the_ninja_hacker(char[] movie){
+  /*
+  	insert real good ideas here
+  */
 }
 int dumb(){
   printf("print this man");
