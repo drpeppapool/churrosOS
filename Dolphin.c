@@ -11,7 +11,7 @@ void dothis(){
 }
 char tiak(char guap){
   //obla
-  addthis();
+  addthats();
   cocacola
 }
 int dumb(){
