@@ -12,6 +12,7 @@ void dothis(){
 char tiak(char guap){
   //obla
   addthis();
+  cocacola
 }
 int dumb(){
   printf("print this man");
